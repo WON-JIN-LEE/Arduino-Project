@@ -1,16 +1,19 @@
-# 캡스톤디자인
+# IoT 공기청정기
 
-## Web page에 접속해 제어하는 IoT 공기청정기
+### Project
 
-#### 개발인원 : 2명
+- 개발인원 : 2명
+- 개발 툴 : Arduino IDE
+- 언어 : C++, HTML, CSS
+- 개발 기간: 2020.04.22. ~ 2020.11.12
 
-#### 개발 툴 : Arduino IDE
+### 주요기능
 
-#### 언어 : C++
+- nodeMCU 메인보드의 wifi 기능으로 웹브라우저와 서버 통신으로 제어할 수 있습니다.
+- ON/OFF와 바람세기를 조작할 수 있습니다.
+- 웹브라우저에서 실시간으로 온습도와 미세먼지의 값을 모니터링 할 수 있습니다.
 
-#### 개발 기간: 2020.04.22. ~ 2020.11.12
-
-#### Code File [Click here](https://github.com/Won49/Arduino-Project/blob/master/project1_1.ino)
+Code File [Click here](https://github.com/Won49/Arduino-Project/blob/master/project1_1.ino)
 
 | List |                                                     작품 사진                                                      |
 | :--: | :----------------------------------------------------------------------------------------------------------------: |
